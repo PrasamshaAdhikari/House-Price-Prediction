@@ -1,8 +1,6 @@
-flask
-numpy
-pandas
-scikit-learn
-tensorflow
-pickle
-keras
+flask==3.0.0
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.3.2
+tensorflow-cpu==2.13.0
 gunicorn
