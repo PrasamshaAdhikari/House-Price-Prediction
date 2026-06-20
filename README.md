@@ -45,6 +45,11 @@ A Flask web app is built to take user inputs and display predicted results in re
 
 🤖 ANN-based regression model
 
+# To run the project:
+* Clone the repository: https://github.com/PrasamshaAdhikari/House-Price-Prediction
+* Install the requirements mentioned in requirements.txt
+* Run app.py file: python app.py
+
 📦 Scaled input preprocessing
 
 🌐 Flask backend integration
