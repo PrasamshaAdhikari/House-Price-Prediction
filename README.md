@@ -49,6 +49,8 @@ A Flask web app is built to take user inputs and display predicted results in re
 
 🌐 Flask backend integration
 
+📄 Multi-page web app (Home, About, Docs, ANN demo)
+
 # To run the project:
 * Clone the repository: https://github.com/PrasamshaAdhikari/House-Price-Prediction
 * Install the requirements mentioned in requirements.txt
@@ -56,4 +58,3 @@ A Flask web app is built to take user inputs and display predicted results in re
 
 
 
-📄 Multi-page web app (Home, About, Docs, ANN demo)
